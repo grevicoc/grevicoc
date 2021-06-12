@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3> Hi 👋, I'm Tito "grevi" Prakasa! </h3>
+
+***All-rounder in Computer Science and Self Developer*** 🚀 
+
+<h4> About Me! </h4>
+- :notebook_with_decorative_cover: I’m currently majoring Informatics Engineering at ITB
+- :triumph: Currently interested in Front-End and Back-End Web Development
+- :bowtie: Status: Open for Internship! 
+- 📫 How to reach me: muhammadtitoprks@gmail.com
+- ⚡ Motto: Little Progress is still a Progress!  
+
 
 <!--
 **grevicoc/grevicoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
