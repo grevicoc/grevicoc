@@ -3,11 +3,11 @@
 ***All-rounder in Computer Science and Self Developer*** 🚀 
 
 <h4> About Me! </h4>
-- :notebook_with_decorative_cover: I’m currently majoring Informatics Engineering at ITB
-- :triumph: Currently interested in Front-End and Back-End Web Development
-- :bowtie: Status: Open for Internship! 
-- 📫 How to reach me: muhammadtitoprks@gmail.com
-- ⚡ Motto: Little Progress is still a Progress!  
+- :notebook_with_decorative_cover: I’m currently majoring Informatics Engineering at ITB <br>
+- :triumph: Currently interested in Front-End and Back-End Web Development <br>
+- :bowtie: Status: Open for Internship! <br>
+- 📫 How to reach me: muhammadtitoprks@gmail.com <br>
+- ⚡ Motto: Little Progress is still a Progress! <br>
 
 
 <!--
