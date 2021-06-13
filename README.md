@@ -15,8 +15,11 @@ Python, C, C++, C#, Java, MongoDB, MariaDB, MySQL, Git, Docker, HTML, CSS, Javas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grevicoc&show_icons=true&theme=tokyonight)
 
-<h2> :two_men_holding_hands: Reach Me: </h2>
+<h2> :two_men_holding_hands: Another Side of Me: </h2>
 <div align="center">
+  <a href="https://www.hackerrank.com/cocabc1?hr_r=1">
+  <img alt="Tito's LinkedIn" width="128px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/tito-prakasa/">
   <img alt="Tito's LinkedIn" width="128px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
