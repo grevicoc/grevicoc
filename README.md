@@ -1,12 +1,9 @@
 <h3> Hi 👋, I'm Tito "grevi" Prakasa! </h3>
 
-***All-rounder in Computer Science and a Self Developer*** 🚀 
+***Explorer in Computer Science and a Self Developer*** 🚀 
 
 <h2> :fire: About Me! </h2>
-- :notebook_with_decorative_cover: I’m currently majoring Informatics Engineering at ITB <br>
-- :triumph: Currently interested in Front-End and Back-End Web Development <br>
-- :bowtie: Status: Open for Internship! <br>
-- ⚡ My Motto: Little Progress is still a Progress! <br>
+Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development and software development. Still new about that stuff but looking for opportunity to work with others! (internship :D)
 
 <h2> :sparkles: Language and Tools: </h2>
 Python, C, C++, C#, Java, MongoDB, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
