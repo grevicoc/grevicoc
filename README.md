@@ -3,10 +3,10 @@
 ***Explorer in Computer Science and a Self Developer*** 🚀 
 
 <h2> :fire: About Me! </h2>
-Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development and software development. Still new about that stuff but looking for opportunity to work with others! (internship :D)
+Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development and software development. Still new about that stuff but looking for opportunity to collaborate with others!
 
 <h2> :sparkles: Language and Tools: </h2>
-Python, C, C++, C#, Java, MongoDB, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
+Python, C, C++, C#, Java, Go, MongoDB, MariaDB, MySQL, HTML, CSS, Javascript, React, Vue, Flask, Spring, Kafka (basic), Redis (basic), Git, Docker.
 
 <h2> :eyes: Stats: </h2>
 
